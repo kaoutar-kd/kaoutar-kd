@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kaoutar-kd
 - 👀 I’m interested in Data science and Data Engineering
 - 🌱 I’m currently learning Data science
-- 💞️ I’m looking for a summer internship 
 - 📫 How to reach me : elkeddadikaoutar@gmail.com
 
 <!---
