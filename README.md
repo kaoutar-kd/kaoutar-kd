@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kaoutar-kd
-- 👀 I’m interested in Data science and Data Engineering
-- 🌱 I’m currently learning Data science
+- 👀 I’m interested in Data science and Software developer
 - 📫 How to reach me : elkeddadikaoutar@gmail.com
 
 <!---
