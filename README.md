@@ -12,6 +12,6 @@ I'm a passionate **Data Scientist** and **Software Developer** with a keen inter
 
 ## 📫 Let's Connect!
 - **Email**: [elkeddadikaoutar@gmail.com](mailto:elkeddadikaoutar@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/kaoutar-el-keddadi/](https://www.linkedin.com/in/kaoutar-el-keddadi/))
+- **LinkedIn**: [https://www.linkedin.com/in/kaoutar-el-keddadi/](https://www.linkedin.com/in/kaoutar-el-keddadi/)
 - **LeetCode**: [https://leetcode.com/u/kaoutarkd/](https://leetcode.com/u/kaoutarkd/)
 ---
