@@ -11,6 +11,7 @@ I'm a passionate **Data Scientist** and **Software Developer** with a keen inter
 - **Artificial Intelligence & Machine Learning**: Fascinated by the potential of AI to transform industries and improve lives.
 
 ## 📫 Let's Connect!
-Feel free to reach out to me via email: [elkeddadikaoutar@gmail.com](mailto:elkeddadikaoutar@gmail.com). I'm always open to discussing new ideas, collaborations, and opportunities!
-
+- **Email**: [elkeddadikaoutar@gmail.com](mailto:elkeddadikaoutar@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/kaoutar-el-keddadi/](https://www.linkedin.com/in/kaoutar-el-keddadi/))
+- **LeetCode**: [https://leetcode.com/u/kaoutarkd/](https://leetcode.com/u/kaoutarkd/)
 ---
